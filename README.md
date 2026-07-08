@@ -1,46 +1,52 @@
-<h1 align="center">Привет, я Эмир </h1>
+<div align="center">
 
-<h3 align="center">Junior Frontend Developer из Алматы 🇰🇿</h3>
+# Hello, I'm Emir
 
-<p align="center">
-Студент 2 курса Narxoz University (Business in IT).<br>
-Изучаю Frontend-разработку и создаю веб-приложения на Vue.js.
-</p>
+### Junior Frontend Developer
+
+<img src="https://komarev.com/ghpvc/?username=emirmatov&label=Profile%20views&color=0e75b6&style=flat" />
+
+<br>
+
+## Connect with me
+
+<a href="https://github.com/emirmatov">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="mailto:emirmatov@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<br><br>
+
+## Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,firebase,git,github,vscode&perline=8" />
+
+</div>
 
 ---
 
-## 🚀 Обо мне
+# 👨‍💻 About Me
 
-- 🎓 Narxoz University — Business in IT
-- 💻 Изучаю Frontend Development
-- 🌱 Сейчас изучаю Vue.js, Firebase и современные подходы к разработке
-- 🎯 Цель — получить позицию Frontend Intern / Junior Frontend Developer
+🎓 Business in IT Student at Narxoz University
 
----
+💻 Junior Frontend Developer
 
-## 🛠️ Технологии
+🌱 Currently learning Vue.js and modern frontend development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,firebase,git,github,vscode&theme=dark" />
-</p>
+📍 Almaty, Kazakhstan
 
 ---
 
-## 📂 Лучшие проекты
+# 🚀 Featured Projects
 
 ### 🌸 Flower Shop
-Интернет-магазин цветов с авторизацией пользователей и хранением данных в Firebase.
+Online flower shop built with Vue.js and Firebase.
 
 ### 💰 Expense Tracker
-Приложение для учета доходов и расходов с удобным интерфейсом и управлением финансами.
+Personal finance tracker for managing income and expenses.
 
 ### 🏠 Bunker
-Веб-версия игры «Бункер», разработанная на Vue.js.
-
----
-
-## 📫 Контакты
-
-📧 **Email:** emirmatov@gmail.com
-
-💻 **GitHub:** https://github.com/emirmatov
+Web version of the "Bunker" game built with Vue.js.
