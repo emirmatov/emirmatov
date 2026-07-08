@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Эмир 👋</h1>
+<h1 align="center">Привет, я Эмир </h1>
 
 <h3 align="center">Junior Frontend Developer из Алматы 🇰🇿</h3>
 
